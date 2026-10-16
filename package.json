@@ -1,0 +1,7 @@
+{
+  "name": "pixi-proxy",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "proxy.js",
+  "scripts": { "start": "node proxy.js" }
+}
