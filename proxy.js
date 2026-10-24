@@ -1,6 +1,6 @@
 import http from 'node:http';
 
-const TARGET = process.env.TARGET || 'http://play.nexifyhost.fun:19117';
+const TARGET = process.env.TARGET || 'http://matrix.nexifyhost.fun:19104';
 const PORT = process.env.PORT || 3000;
 const SKIP = new Set(['host', 'connection', 'content-length', 'content-encoding', 'transfer-encoding']);
 
